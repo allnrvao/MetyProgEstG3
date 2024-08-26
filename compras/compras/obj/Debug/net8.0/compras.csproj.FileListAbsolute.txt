@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.sourcelink.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\bin\Debug\net8.0\compras.exe
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\bin\Debug\net8.0\compras.deps.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\bin\Debug\net8.0\compras.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\bin\Debug\net8.0\compras.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\bin\Debug\net8.0\compras.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\refint\compras.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\compras.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\compras\obj\Debug\net8.0\ref\compras.dll

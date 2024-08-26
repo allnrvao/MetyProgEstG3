@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.sourcelink.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\bin\Debug\net8.0\CalcularNota.exe
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\bin\Debug\net8.0\CalcularNota.deps.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\bin\Debug\net8.0\CalcularNota.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\bin\Debug\net8.0\CalcularNota.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\bin\Debug\net8.0\CalcularNota.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\refint\CalcularNota.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\CalcularNota.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\compras\CalcularNota\obj\Debug\net8.0\ref\CalcularNota.dll
