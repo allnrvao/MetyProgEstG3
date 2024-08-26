@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C48B86FF-2617-4175-8E73-71B84C136210}|CalcularNota\\CalcularNota.csproj|c:\\users\\jpnic\\onedrive\\desktop\\repositorio de metodologia y programacion\\compras\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48B86FF-2617-4175-8E73-71B84C136210}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C48B86FF-2617-4175-8E73-71B84C136210}|CalcularNota\\CalcularNota.csproj|c:\\users\\jpnic\\onedrive\\desktop\\repositorio de metodologia y programacion\\compras\\calcularnota\\clase\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48B86FF-2617-4175-8E73-71B84C136210}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\clase\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularNota\\Program.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\Program.cs*",
+              "RelativeToolTip": "CalcularNota\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:18:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Nota.cs",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\clase\\Nota.cs",
               "RelativeDocumentMoniker": "CalcularNota\\clase\\Nota.cs",
@@ -28,10 +49,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T01:17:57.921Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

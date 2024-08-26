@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\Program.cs",
               "RelativeDocumentMoniker": "CalcularNota\\Program.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\Program.cs*",
-              "RelativeToolTip": "CalcularNota\\Program.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\repositorio de metodologia y programacion\\compras\\CalcularNota\\Program.cs",
+              "RelativeToolTip": "CalcularNota\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T01:18:20.036Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",

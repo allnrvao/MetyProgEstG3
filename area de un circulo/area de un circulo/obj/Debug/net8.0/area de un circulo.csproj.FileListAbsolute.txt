@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\bin\Debug\net8.0\area de un circulo.exe
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\bin\Debug\net8.0\area de un circulo.deps.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\bin\Debug\net8.0\area de un circulo.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\bin\Debug\net8.0\area de un circulo.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\bin\Debug\net8.0\area de un circulo.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.sourcelink.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\refint\area de un circulo.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\area de un circulo.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\area de un circulo\area de un circulo\obj\Debug\net8.0\ref\area de un circulo.dll

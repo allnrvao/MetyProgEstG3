@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.sourcelink.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\bin\Debug\net8.0\cubo  de un numero.exe
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\bin\Debug\net8.0\cubo  de un numero.deps.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\bin\Debug\net8.0\cubo  de un numero.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\bin\Debug\net8.0\cubo  de un numero.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\bin\Debug\net8.0\cubo  de un numero.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\refint\cubo  de un numero.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\cubo  de un numero.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\cubo  de un numero\cubo  de un numero\obj\Debug\net8.0\ref\cubo  de un numero.dll

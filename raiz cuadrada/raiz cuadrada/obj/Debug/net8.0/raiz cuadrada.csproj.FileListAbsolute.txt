@@ -1,0 +1,15 @@
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.sourcelink.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\bin\Debug\net8.0\raiz cuadrada.exe
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\bin\Debug\net8.0\raiz cuadrada.deps.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\bin\Debug\net8.0\raiz cuadrada.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\bin\Debug\net8.0\raiz cuadrada.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\bin\Debug\net8.0\raiz cuadrada.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\refint\raiz cuadrada.dll
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.pdb
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\raiz cuadrada.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\repositorio de metodologia y programacion\raiz cuadrada\raiz cuadrada\obj\Debug\net8.0\ref\raiz cuadrada.dll

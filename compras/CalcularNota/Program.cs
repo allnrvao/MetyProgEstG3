@@ -44,7 +44,7 @@ namespace CalcularNota
             promedio = calcularnota.CalcularPromedio();
 
             //se muestran los programas
-            Console.WriteLine($"El estudiante {NombreEstudiante} {apellidoestudiante} obtuvo las siguientes calificaciones: ");
+            Console.WriteLine($"El estudiante {NombreEstudiante}{apellidoestudiante} obtuvo las siguientes calificaciones: ");
             Console.WriteLine($"Calificacion 1: {cal1}\n Calificacion 2: {cal2}\n Calificacion 3: {cal3}");
             Console.WriteLine($"El promedio es de: {promedio}");
 
